@@ -1,4 +1,4 @@
-# SQLServerDataPipeline
+# SQL Server Data Pipeline
 
 This Python script utilizes the requests, json, pandas, datetime, and pyodbc libraries to retrieve COVID-19 data from the Centers for Disease Control and Prevention (CDC) API and load it into a SQL Server database.
 
